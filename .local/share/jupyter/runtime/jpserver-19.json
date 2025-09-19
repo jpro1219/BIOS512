@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/jpro1219-bios512-zmtn3f5r/",
+  "base_url": "/user/jpro1219-bios512-m6w7rx1g/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 19,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "4CR2p1bcTH6mBvb06q3iIw",
-  "url": "http://jupyter-jpro1219-bios512-zmtn3f5r:8888/user/jpro1219-bios512-zmtn3f5r/",
+  "token": "njLf12MdQVibGVCNN5TJ5g",
+  "url": "http://jupyter-jpro1219-bios512-m6w7rx1g:8888/user/jpro1219-bios512-m6w7rx1g/",
   "version": "2.15.0"
 }
